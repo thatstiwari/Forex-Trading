@@ -1,1 +1,1 @@
-# Forex-Trading
+This is a log and instruction file.
